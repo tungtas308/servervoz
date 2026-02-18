@@ -1,2 +1,2 @@
-2026-02-18 11:23:36	[1970-01-01 08:00:00] Register [Th› Luy÷n ß≠Íng] dungeon, templet mapid is [925].
-2026-02-18 11:23:36	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2026-02-18 12:53:34	[1970-01-01 08:00:00] Register [Th› Luy÷n ß≠Íng] dungeon, templet mapid is [925].
+2026-02-18 12:53:35	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.

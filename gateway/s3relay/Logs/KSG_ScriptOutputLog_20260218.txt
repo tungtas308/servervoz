@@ -138,8 +138,3 @@ CallFun autochatglobal.lua GameSvrReady
 CallFun hoatdong\hathoangkim.lua GameSvrReady
 CallFun citydefence\citydefence.lua GameSvrReady
 CallFun makegoldboss\boss_dai_hoangkim_1245.lua GameSvrReady
-CallFun thongbaohethong\announce.lua TaskContent
-CallFun autochatglobal.lua TaskContent
-CallFun thongbaohethong\announce.lua TaskContent
-CallFun thongbaohethong\announce.lua TaskContent
-CallFun autochatglobal.lua TaskContent

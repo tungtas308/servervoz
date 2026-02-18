@@ -1,5 +1,0 @@
-2026-02-18 11:23:18	heaven(version 2.02) log start....
-2026-02-18 11:23:27	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:14
-2026-02-18 11:23:36	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:13
-2026-02-18 11:54:13	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 14
-2026-02-18 11:54:30	Callback Connectionidx:1, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 15
