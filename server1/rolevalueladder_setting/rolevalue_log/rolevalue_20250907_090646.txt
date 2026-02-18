@@ -1,0 +1,9 @@
+[Normal]Item: Thanh C©u La H¸n Cµ Sa(0,1,909,2,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n TriÒn Thñ(0,1,910,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n T¨ng Hµi(0,1,911,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n Yªu Trôy(0,1,912,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n H¹ Giíi(0,1,913,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Phi Tinh Liªn(0,1,1044,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Phi Tinh Ph¸t Qu¸n(0,1,1045,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n PhËt Ch©u(0,1,904,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Phi Tinh Liªn(0,1,1044,0,0,10), unbind = 0, bind = 20

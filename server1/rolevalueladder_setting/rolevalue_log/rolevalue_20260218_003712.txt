@@ -1,0 +1,2 @@
+[Normal]Item: Nga Mi Thİch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0

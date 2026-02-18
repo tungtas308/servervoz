@@ -1,0 +1,2 @@
+[Normal]Item: Thi’t Th≠¨ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,0,0,1), unbind = 0, bind = 0

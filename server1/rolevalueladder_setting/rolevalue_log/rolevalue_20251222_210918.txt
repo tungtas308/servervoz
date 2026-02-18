@@ -1,0 +1,48 @@
+[Normal]Item: Phôc Ma Phæ §é T¨ng hµi(0,1,9,0,2,10), unbind = 0, bind = 50
+[Normal]Item: V« Gian Thanh Phong Truy Y(0,1,31,7,4,10), unbind = 0, bind = 50
+[Normal]Item: Ma Hoµng ¸n XuÊt Hæ H¹ng Khuyªn(0,1,106,1,4,10), unbind = 0, bind = 50
+[Normal]Item: L¨ng Nh¹c V« Ng· ®¹o bµo(0,1,116,15,3,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Thanh Phong Lò ®¸i(0,1,127,0,4,10), unbind = 0, bind = 50
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,9), unbind = 0, bind = 0
+[Normal]Item: L«i Khung Thiªn §Þa Hé phï (0,1,131,1,3,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Phong B¹o chØ hoµn(0,1,129,0,1,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Thiªn Tinh B¨ng Tinh thñ (0,1,128,1,3,10), unbind = 0, bind = 50
+[Normal]Item: CËp Phong Thóy Ngäc HuyÒn Hoµng Béi(0,1,123,1,3,10), unbind = 0, bind = 50
+[Normal]Item: Vô ¶o Tung Phong TuyÕt ¶nh ngoa(0,1,139,0,2,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Ng¹o S­¬ng ®¹o bµo(0,1,126,15,0,10), unbind = 0, bind = 50
+[Normal]Item: Vô ¶o Ki B¸n phï chó (0,1,136,1,4,10), unbind = 0, bind = 50
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,9), unbind = 0, bind = 0
+[Normal]Item: Tinh ChuÈn Chi Ngoa(0,1,214,1,0,10), unbind = 0, bind = 100
+[Normal]Item: Vinh DiÖu Chi Y(0,1,213,9,0,10), unbind = 0, bind = 100
+[Normal]Item: §¹i Phong §ao(0,0,0,1,2,10), unbind = 0, bind = 0
+[Normal]Item: [Cùc phÈm] §Þnh Quèc Tö §»ng Hé UyÓn(0,1,405,1,3,8), unbind = 0, bind = 100
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,9), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Phôc Ma Phæ §é T¨ng hµi(0,1,9,0,2,10), unbind = 0, bind = 50
+[Normal]Item: V« Gian Thanh Phong Truy Y(0,1,31,7,4,10), unbind = 0, bind = 50
+[Normal]Item: Ma Hoµng ¸n XuÊt Hæ H¹ng Khuyªn(0,1,106,1,4,10), unbind = 0, bind = 50
+[Normal]Item: L¨ng Nh¹c V« Ng· ®¹o bµo(0,1,116,15,3,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Thanh Phong Lò ®¸i(0,1,127,0,4,10), unbind = 0, bind = 50
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,9), unbind = 0, bind = 0
+[Normal]Item: L«i Khung Thiªn §Þa Hé phï (0,1,131,1,3,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Phong B¹o chØ hoµn(0,1,129,0,1,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Thiªn Tinh B¨ng Tinh thñ (0,1,128,1,3,10), unbind = 0, bind = 50
+[Normal]Item: CËp Phong Thóy Ngäc HuyÒn Hoµng Béi(0,1,123,1,3,10), unbind = 0, bind = 50
+[Normal]Item: Vô ¶o Tung Phong TuyÕt ¶nh ngoa(0,1,139,0,2,10), unbind = 0, bind = 50
+[Normal]Item: S­¬ng Tinh Ng¹o S­¬ng ®¹o bµo(0,1,126,15,0,10), unbind = 0, bind = 50
+[Normal]Item: Vô ¶o Ki B¸n phï chó (0,1,136,1,4,10), unbind = 0, bind = 50
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,9), unbind = 0, bind = 0
+[Normal]Item: Tinh ChuÈn Chi Ngoa(0,1,214,1,0,10), unbind = 0, bind = 100
+[Normal]Item: Vinh DiÖu Chi Y(0,1,213,9,0,10), unbind = 0, bind = 100
+[Normal]Item: §¹i Phong §ao(0,0,0,1,2,10), unbind = 0, bind = 0
+[Normal]Item: [Cùc phÈm] §Þnh Quèc Tö §»ng Hé UyÓn(0,1,405,1,3,8), unbind = 0, bind = 100
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,9), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,3,10), unbind = 0, bind = 0

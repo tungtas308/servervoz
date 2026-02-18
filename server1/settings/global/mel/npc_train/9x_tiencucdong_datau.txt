@@ -1,0 +1,4 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+93	1596	3290	199	205	TiÕn Cóc ®éng
+93	1681	3010	210	188	TiÕn Cóc ®éng
+93	1698	3140	212	196	TiÕn Cóc ®éng

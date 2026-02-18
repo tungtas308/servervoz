@@ -1,0 +1,1 @@
+[Normal]Item: Siªu Quang(0,0,10,13,3,10), unbind = 0, bind = 20000

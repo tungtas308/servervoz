@@ -1,0 +1,2 @@
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: [Cùc phÈm] Nhu T×nh Thôc N÷ H¹ng Liªn(0,1,416,0,0,5), unbind = 0, bind = 100

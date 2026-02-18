@@ -1,0 +1,11 @@
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Quang Thiªn Tµm Ngoa(0,1,200,1,2,10), unbind = 0, bind = 100
+[Normal]Item:  §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn(0,1,163,0,4,10), unbind = 0, bind = 100
+[Normal]Item: Thanh C©u BÝch La Sam(0,1,999,2,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Yªu §¸i(0,1,998,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Tô(0,1,997,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Th­îng Giíi(0,1,996,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Tr©m(0,1,995,5,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Ch©u Liªn(0,1,994,5,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Hé UyÓn(0,1,1057,1,0,10), unbind = 0, bind = 20
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0

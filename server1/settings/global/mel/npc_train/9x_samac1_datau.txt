@@ -1,0 +1,3 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+225	1432	3232	179	202	Sa M¹c 1
+225	1392	3272	174	204	Sa M¹c 1

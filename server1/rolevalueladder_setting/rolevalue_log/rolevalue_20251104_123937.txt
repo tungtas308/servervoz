@@ -1,0 +1,6 @@
+[Normal]Item: Thanh C©u Kim C­¬ng Thóc Yªu(0,1,928,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Kim C­¬ng Hé UyÓn(0,1,927,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Kim C­¬ng Th­îng Giíi(0,1,926,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Kim C­¬ng T¨ng M¹o(0,1,925,4,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Kim C­¬ng H¹ng Liªn(0,1,924,3,2,10), unbind = 0, bind = 20
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0

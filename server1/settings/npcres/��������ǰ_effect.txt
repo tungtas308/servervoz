@@ -1,0 +1,83 @@
+EqName	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+XÝch Thè																																																
+ChiÕu D¹																																																
+§Ých L«																																																
+Ngùa 4																																																
+Ngùa 5																																																
+¤ V©n §¹p Tuyªt																																																
+Ngùa 7																																																
+Tóc S­¬ng																																																
+Ngùa 9																																																
+TuyÖt ¶nh																																																
+B«n Tiªu																																																
+Phiªn Vò																																																
+Phi V©n																																																
+XÝch Long C©u																																																
+TuyÖt §Þa																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Du Huy																																																
+§»ng Vô																																																
+Siªu Quang																																																
+Hæ																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Hæ Vµng																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Hæ Tr¾ng																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Hæ §en																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+H·n HuyÕt Long C©u																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+S­ Tö																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+L¹c §µ																																																
+L¹c §µ																																																
+ThÇn Léc																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+D­¬ng Sa																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Ngù Phong																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Truy §iÖn																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+L­u Tinh																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+TÞch V©n M·																																																
+¤ V©n																																																
+Hoµng v©n m·																																																
+Kú L©n Sõng §á																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Kú l©n ®en 																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+C¸o tr¾ng																																																
+C¸o vµng																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+H­u tuyÕt																																																
+Thá tr¾ng																																							MA_HHF_114_RD01.spr	MA_HHF_114_HW01.spr	MA_HHF_114_HR01.spr	MA_HHF_114_HA01.spr	MA_HHF_114_HA02.spr	MA_HHF_114_HM01.spr	MA_HHF_114_HI01.spr	MA_HHF_114_HD01.spr	MA_HHF_114_RD01.spr	MA_HHF_114_RD01.spr
+Hoµng ti dª																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Lôc kú l©n																																																
+Rång Löa																																							MA_HHF_119vip_RD01.spr	MA_HHF_119vip_HW01.spr	MA_HHF_119vip_HR01.spr	MA_HHF_119vip_HA01.spr	MA_HHF_119vip_HA02.spr	MA_HHF_119vip_HM01.spr	MA_HHF_119vip_HI01.spr	MA_HHF_119vip_HD01.spr	MA_HHF_119vip_RD01.spr	MA_HHF_119vip_RD01.spr
+H¾c Phong																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+B¹ch Long																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Tö §iÖn 																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+TuyÕt L©n																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+L«i ¶nh																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+HuyÕt Vò																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Ng©n ¶nh																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Long Uy																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Tµng Phong																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Phi TuyÕt																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+HuyÕt ¶nh																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+B¹ch V©n																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+L«i V©n																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+H¾c M· 																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Tö  V©n																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Kim Gi¸p 																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+XÝch V©n																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Ti hoµng l©n																																																
+S­ Tö Hoµng Kim																																																
+S­ Tö H¾c Kim																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Tr©u Kinh																																																
+B¹ch V©n M·																																																
+V« ¶nh																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+S­ Tö  Tr¾ng																																																
+S­ Tö  Vµng																																																
+Hæ R¨ng KiÕm																																							MA_HHF_091_RD01.spr	MA_HHF_091_HW01.spr	MA_HHF_091_HR01.spr	MA_HHF_091_HA01.spr	MA_HHF_091_HA02.spr	MA_HHF_091_HM01.spr	MA_HHF_091_HI01.spr	MA_HHF_091_HD01.spr	MA_HHF_091_RD01.spr	MA_HHF_091_RD01.spr
+¤ Truy																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Song Vü																																							horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+Vua Hæ																																							hhfho_rs01.spr	hhfho_rw.spr	hhfho_rr.spr	hhfho_ra01.spr	hhfho_ra02.spr	hhfho_rm.spr	hhfho_rb.spr	hhfho_rd.spr	hhfho_ra02.spr	hhfho_ra02.spr
+B¨ng Háa L©n																																							hhflan_rs01.spr	hhflan_rw.spr	hhflan_rr.spr	hhflan_ra01.spr	hhflan_ra02.spr	hhflan_rm.spr		hhflan_rd.spr	hhflan_ra02.spr	hhflan_ra02.spr
+ThiÕt Gi¸p L©n																																							hhflan_rs01.spr	hhflan_rw.spr	hhflan_rr.spr	hhflan_ra01.spr	hhflan_ra02.spr	hhflan_rm.spr		hhflan_rd.spr	hhflan_ra02.spr	hhflan_ra02.spr
+Hoµng L©n																																							hhflan_rs01.spr	hhflan_rw.spr	hhflan_rr.spr	hhflan_ra01.spr	hhflan_ra02.spr	hhflan_rm.spr		hhflan_rd.spr	hhflan_ra02.spr	hhflan_ra02.spr
+BÝch L©n																																							MA_HHF_119vip3_RD01.spr	MA_HHF_119vip3_HW01.spr	MA_HHF_119vip3_HR01.spr	MA_HHF_119vip3_HA01.spr	MA_HHF_119vip3_HA02.spr	MA_HHF_119vip3_HM01.spr	MA_HHF_119vip3_HI01.spr	MA_HHF_119vip3_HD01.spr	MA_HHF_119vip3_RD01.spr	MA_HHF_119vip3_RD01.spr
+Háa Viªm																																							hhfnguatrangxanh_rs01.spr	hhfnguatrangxanh_rw.spr	hhfnguatrangxanh_rr.spr	hhfnguatrangxanh_ra01.spr	hhfnguatrangxanh_ra02.spr	hhfnguatrangxanh_rm.spr	hhfnguatrangxanh_rb.spr	hhfnguatrangxanh_rd.spr	hhfnguatrangxanh_ra02.spr	hhfnguatrangxanh_ra02.spr
+H¾c Tinh 																																							hhfnguatrangxanh_rs01.spr	hhfnguatrangxanh_rw.spr	hhfnguatrangxanh_rr.spr	hhfnguatrangxanh_ra01.spr	hhfnguatrangxanh_ra02.spr	hhfnguatrangxanh_rm.spr	hhfnguatrangxanh_rb.spr	hhfnguatrangxanh_rd.spr	hhfnguatrangxanh_ra02.spr	hhfnguatrangxanh_ra02.spr
+H¾c Hãa																																							hhfnguavang_rs01.spr	hhfnguavang_rw.spr	hhfnguavang_rr.spr	hhfnguavang_ra01.spr	hhfnguavang_ra02.spr	hhfnguavang_rm.spr	hhfnguavang_rb.spr	hhfnguavang_rd.spr	hhfnguavang_ra02.spr	hhfnguavang_ra02.spr
+Giao Phong																																							hhfnguavang_rs01.spr	hhfnguavang_rw.spr	hhfnguavang_rr.spr	hhfnguavang_ra01.spr	hhfnguavang_ra02.spr	hhfnguavang_rm.spr	hhfnguavang_rb.spr	hhfnguavang_rd.spr	hhfnguavang_ra02.spr	hhfnguavang_ra02.spr
+TuyÕt V« ¶nh																																							hhfnguatrangvang1_rs01.spr	hhfnguatrangvang1_rw.spr	hhfnguatrangvang1_rr.spr	hhfnguatrangvang1_ra01.spr	hhfnguatrangvang1_ra02.spr	hhfnguatrangvang1_rm.spr	hhfnguatrangvang1_rb.spr	hhfnguatrangvang1_rd.spr	hhfnguatrangvang1_ra02.spr	hhfnguatrangvang1_ra02.spr
+B¹ch L©n																																							MA_HHF_119vip2_RD01.spr	MA_HHF_119vip2_HW01.spr	MA_HHF_119vip2_HR01.spr	MA_HHF_119vip2_HA01.spr	MA_HHF_119vip2_HA02.spr	MA_HHF_119vip2_HM01.spr	MA_HHF_119vip2_HI01.spr	MA_HHF_119vip2_HD01.spr	MA_HHF_119vip2_RD01.spr	MA_HHF_119vip2_RD01.spr

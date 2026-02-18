@@ -1,0 +1,83 @@
+EqName	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+XÝch Thè																																																
+ChiÕu D¹																																																
+§Ých L«																																																
+Ngùa 4																																																
+Ngùa 5																																																
+¤ V©n §¹p Tuyªt																																																
+Ngùa 7																																																
+Tóc S­¬ng																																																
+Ngùa 9																																																
+TuyÖt ¶nh																																																
+B«n Tiªu																																																
+Phiªn Vò																																																
+Phi V©n																																																
+XÝch Long C©u																																																
+TuyÖt §Þa																																																
+Du Huy																																																
+§»ng Vô																																																
+Siªu Quang																																																
+Hæ																																																
+Hæ Vµng																																																
+Hæ Tr¾ng																																																
+Hæ §en																																																
+H·n HuyÕt Long C©u																																																
+S­ Tö																																																
+L¹c §µ																																																
+L¹c §µ																																																
+ThÇn Léc																																																
+D­¬ng Sa																																																
+Ngù Phong																																																
+Truy §iÖn																																																
+L­u Tinh																																																
+TÞch V©n M·																																							..\man\117_ra02.spr	..\man\117_rw.spr	..\man\117_rr.spr	..\man\117_ra01.spr	..\man\117_ra02.spr	..\man\117_rm.spr	..\man\117_rb.spr	..\man\117_rd.spr	..\man\117_ra02.spr	..\man\117_ra02.spr
+¤ V©n																																							..\man\114_ra02.spr	..\man\114_rw.spr	..\man\114_rr.spr	..\man\114_ra01.spr	..\man\114_ra02.spr	..\man\114_rm.spr	..\man\114_rb.spr	..\man\114_rd.spr	..\man\114_ra02.spr	..\man\114_ra02.spr
+Hoµng v©n m·																																							..\man\115_ra02.spr	..\man\115_rw.spr	..\man\115_rr.spr	..\man\115_ra01.spr	..\man\115_ra02.spr	..\man\115_rm.spr	..\man\115_rb.spr	..\man\115_rd.spr	..\man\115_ra02.spr	..\man\115_ra02.spr
+Kú L©n Sõng §á																																							..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr
+Kú l©n ®en 																																							..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr
+C¸o tr¾ng																																							..\man\vip_yaohu2_002_ra02.spr	..\man\vip_yaohu2_002_rw.spr	..\man\vip_yaohu2_002_rr.spr	..\man\vip_yaohu2_002_ra01.spr	..\man\vip_yaohu2_002_ra02.spr	..\man\vip_yaohu2_002_rm.spr	..\man\vip_yaohu2_002_rb.spr		..\man\vip_yaohu2_002_ra02.spr	..\man\vip_yaohu2_002_ra02.spr
+C¸o vµng																																							..\man\vip_yaohu3_002_ra02.spr	..\man\vip_yaohu3_002_rw.spr	..\man\vip_yaohu3_002_rr.spr	..\man\vip_yaohu3_002_ra01.spr	..\man\vip_yaohu3_002_ra02.spr	..\man\vip_yaohu3_002_rm.spr	..\man\vip_yaohu3_002_rb.spr		..\man\vip_yaohu3_002_ra02.spr	..\man\vip_yaohu3_002_ra02.spr
+H­u tuyÕt																																																
+Thá tr¾ng																																							..\man\MA_HTF_114_RD01.spr	..\man\MA_HTF_114_HW01.spr	..\man\MA_HTF_114_HR01.spr	..\man\MA_HTF_114_HA01.spr	..\man\MA_HTF_114_HA02.spr	..\man\MA_HTF_114_HM01.spr	..\man\MA_HTF_114_HI01.spr	..\man\MA_HTF_114_HD01.spr	..\man\MA_HTF_114_RD01.spr	..\man\MA_HTF_114_RD01.spr
+Hoµng ti dª																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Lôc kú l©n																																							..\man\2014_vip_003_ra02.spr	..\man\2014_vip_003_rw.spr	..\man\2014_vip_003_rr.spr	..\man\2014_vip_003_ra01.spr	..\man\2014_vip_003_ra02.spr	..\man\2014_vip_003_rm.spr	..\man\2014_vip_003_rb.spr	..\man\2014_vip_003_rd.spr	..\man\2014_vip_003_ra02.spr	..\man\2014_vip_003_ra02.spr
+Rång Löa																																							..\man\MA_HTF_119vip_RD01.spr	..\man\MA_HTF_119vip_HW01.spr	..\man\MA_HTF_119vip_HR01.spr	..\man\MA_HTF_119vip_HA01.spr	..\man\MA_HTF_119vip_HA02.spr	..\man\MA_HTF_119vip_HM01.spr	..\man\MA_HTF_119vip_HI01.spr	..\man\MA_HTF_119vip_HD01.spr	..\man\MA_HTF_119vip_RD01.spr	..\man\MA_HTF_119vip_RD01.spr
+H¾c Phong																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+B¹ch Long																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Tö §iÖn 																																							..\man\116_ra02.spr	..\man\116_rw.spr	..\man\116_rr.spr	..\man\116_ra01.spr	..\man\116_ra02.spr	..\man\116_rm.spr	..\man\116_rb.spr	..\man\116_rd.spr	..\man\116_ra02.spr	..\man\116_ra02.spr
+TuyÕt L©n																																							..\man\114_ra02.spr	..\man\114_rw.spr	..\man\114_rr.spr	..\man\114_ra01.spr	..\man\114_ra02.spr	..\man\114_rm.spr	..\man\114_rb.spr	..\man\114_rd.spr	..\man\114_ra02.spr	..\man\114_ra02.spr
+L«i ¶nh																																							..\man\117_ra02.spr	..\man\117_rw.spr	..\man\117_rr.spr	..\man\117_ra01.spr	..\man\117_ra02.spr	..\man\117_rm.spr	..\man\117_rb.spr	..\man\117_rd.spr	..\man\117_ra02.spr	..\man\117_ra02.spr
+HuyÕt Vò																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Ng©n ¶nh																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Long Uy																																							..\man\eff_002_ra02.spr	..\man\eff_002_rw.spr	..\man\eff_002_rr.spr	..\man\eff_002_ra01.spr	..\man\eff_002_ra02.spr	..\man\eff_002_rm.spr	..\man\eff_002_rb.spr	..\man\eff_002_rs.spr	..\man\eff_002_ra02.spr	..\man\eff_002_ra02.spr
+Tµng Phong																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Phi TuyÕt																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+HuyÕt ¶nh																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+B¹ch V©n																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+L«i V©n																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+H¾c M· 																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Tö  V©n																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Kim Gi¸p 																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+XÝch V©n																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Ti hoµng l©n																																							..\man\2014_vip2_003_ra02.spr	..\man\2014_vip2_003_rw.spr	..\man\2014_vip2_003_rr.spr	..\man\2014_vip2_003_ra01.spr	..\man\2014_vip2_003_ra02.spr	..\man\2014_vip2_003_rm.spr	..\man\2014_vip2_003_rb.spr	..\man\2014_vip2_003_rd.spr	..\man\2014_vip2_003_ra02.spr	..\man\2014_vip2_003_ra02.spr
+S­ Tö Hoµng Kim																																							..\man\2018_vip3_ra02.spr	..\man\2018_vip3_rw.spr	..\man\2018_vip3_rr.spr	..\man\2018_vip3_ra01.spr	..\man\2018_vip3_ra02.spr	..\man\2018_vip3_rm.spr	..\man\2018_vip3_rb.spr	..\man\2018_vip3_rd.spr	..\man\2018_vip3_ra02.spr	..\man\2018_vip3_ra02.spr
+S­ Tö H¾c Kim																																							..\man\2018_vip1_ra02.spr	..\man\2018_vip1_rw.spr	..\man\2018_vip1_rr.spr	..\man\2018_vip1_ra01.spr	..\man\2018_vip1_ra02.spr	..\man\2018_vip1_rm.spr	..\man\2018_vip1_rb.spr	..\man\2018_vip1_rd.spr	..\man\2018_vip1_ra02.spr	..\man\2018_vip1_ra02.spr
+Tr©u Kinh																																																
+B¹ch V©n M·																																							..\man\118_ra02.spr	..\man\118_rw.spr	..\man\118_rr.spr	..\man\118_ra01.spr	..\man\118_ra02.spr	..\man\118_rm.spr	..\man\118_rb.spr	..\man\118_rd.spr	..\man\118_ra02.spr	..\man\118_ra02.spr
+V« ¶nh																																							..\man\eff_001_ra02.spr	..\man\eff_001_rw.spr	..\man\eff_001_rr.spr	..\man\eff_001_ra01.spr	..\man\eff_001_ra02.spr	..\man\eff_001_rm.spr	..\man\eff_001_rb.spr	..\man\eff_001_rs.spr	..\man\eff_001_ra02.spr	..\man\eff_001_ra02.spr
+S­ Tö  Tr¾ng																																							..\man\2018_vip2_ra02.spr	..\man\2018_vip2_rw.spr	..\man\2018_vip2_rr.spr	..\man\2018_vip2_ra01.spr	..\man\2018_vip2_ra02.spr	..\man\2018_vip2_rm.spr	..\man\2018_vip2_rb.spr	..\man\2018_vip2_rd.spr	..\man\2018_vip2_ra02.spr	..\man\2018_vip2_ra02.spr
+S­ Tö  Vµng																																							..\man\2018_vip3_ra02.spr	..\man\2018_vip3_rw.spr	..\man\2018_vip3_rr.spr	..\man\2018_vip3_ra01.spr	..\man\2018_vip3_ra02.spr	..\man\2018_vip3_rm.spr	..\man\2018_vip3_rb.spr	..\man\2018_vip3_rd.spr	..\man\2018_vip3_ra02.spr	..\man\2018_vip3_ra02.spr
+Hæ R¨ng KiÕm																																							..\man\MA_HTF_091_RD01.spr	..\man\MA_HTF_091_HW01.spr	..\man\MA_HTF_091_HR01.spr	..\man\MA_HTF_091_HA01.spr	..\man\MA_HTF_091_HA02.spr	..\man\MA_HTF_091_HM01.spr	..\man\MA_HTF_091_HI01.spr	..\man\MA_HTF_091_HD01.spr	..\man\MA_HTF_091_RD01.spr	..\man\MA_HTF_091_RD01.spr
+¤ Truy																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Song Vü																																							..\man\eff_000_ra02.spr	..\man\eff_000_rw.spr	..\man\eff_000_rr.spr	..\man\eff_000_ra01.spr	..\man\eff_000_ra02.spr	..\man\eff_000_rm.spr	..\man\eff_000_rb.spr	..\man\eff_000_rs.spr	..\man\eff_000_ra02.spr	..\man\eff_000_ra02.spr
+Vua Hæ																																							..\man\htfho_rs01.spr	..\man\htfho_rw.spr	..\man\htfho_rr.spr	..\man\htfho_ra01.spr	..\man\htfho_ra02.spr	..\man\htfho_rm.spr	..\man\htfho_rb.spr	..\man\htfho_rd.spr	..\man\htfho_ra02.spr	..\man\htfho_ra02.spr
+B¨ng Háa L©n																																							..\man\htflan_rs01.spr	..\man\htflan_rw.spr	..\man\htflan_rr.spr	..\man\htflan_ra01.spr	..\man\htflan_ra02.spr	..\man\htflan_rm.spr		..\man\htflan_rd.spr	..\man\htflan_ra02.spr	..\man\htflan_ra02.spr
+ThiÕt Gi¸p L©n																																							..\man\htflan_rs01.spr	..\man\htflan_rw.spr	..\man\htflan_rr.spr	..\man\htflan_ra01.spr	..\man\htflan_ra02.spr	..\man\htflan_rm.spr		..\man\htflan_rd.spr	..\man\htflan_ra02.spr	..\man\htflan_ra02.spr
+Hoµng L©n																																							..\man\htflan_rs01.spr	..\man\htflan_rw.spr	..\man\htflan_rr.spr	..\man\htflan_ra01.spr	..\man\htflan_ra02.spr	..\man\htflan_rm.spr		..\man\htflan_rd.spr	..\man\htflan_ra02.spr	..\man\htflan_ra02.spr
+BÝch L©n																																							..\man\MA_HTF_119vip3_RD01.spr	..\man\MA_HTF_119vip3_HW01.spr	..\man\MA_HTF_119vip3_HR01.spr	..\man\MA_HTF_119vip3_HA01.spr	..\man\MA_HTF_119vip3_HA02.spr	..\man\MA_HTF_119vip3_HM01.spr	..\man\MA_HTF_119vip3_HI01.spr	..\man\MA_HTF_119vip3_HD01.spr	..\man\MA_HTF_119vip3_RD01.spr	..\man\MA_HTF_119vip3_RD01.spr
+Háa Viªm																																							..\man\htfnguatrangxanh_rs01.spr	..\man\htfnguatrangxanh_rw.spr	..\man\htfnguatrangxanh_rr.spr	..\man\htfnguatrangxanh_ra01.spr	..\man\htfnguatrangxanh_ra02.spr	..\man\htfnguatrangxanh_rm.spr	..\man\htfnguatrangxanh_rb.spr	..\man\htfnguatrangxanh_rd.spr	..\man\htfnguatrangxanh_ra02.spr	..\man\htfnguatrangxanh_ra02.spr
+H¾c Tinh 																																							..\man\htfnguatrangxanh_rs01.spr	..\man\htfnguatrangxanh_rw.spr	..\man\htfnguatrangxanh_rr.spr	..\man\htfnguatrangxanh_ra01.spr	..\man\htfnguatrangxanh_ra02.spr	..\man\htfnguatrangxanh_rm.spr	..\man\htfnguatrangxanh_rb.spr	..\man\htfnguatrangxanh_rd.spr	..\man\htfnguatrangxanh_ra02.spr	..\man\htfnguatrangxanh_ra02.spr
+H¾c Hãa																																							..\man\htfnguavang_rs01.spr	..\man\htfnguavang_rw.spr	..\man\htfnguavang_rr.spr	..\man\htfnguavang_ra01.spr	..\man\htfnguavang_ra02.spr	..\man\htfnguavang_rm.spr	..\man\htfnguavang_rb.spr	..\man\htfnguavang_rd.spr	..\man\htfnguavang_ra02.spr	..\man\htfnguavang_ra02.spr
+Giao Phong																																							..\man\htfnguavang_rs01.spr	..\man\htfnguavang_rw.spr	..\man\htfnguavang_rr.spr	..\man\htfnguavang_ra01.spr	..\man\htfnguavang_ra02.spr	..\man\htfnguavang_rm.spr	..\man\htfnguavang_rb.spr	..\man\htfnguavang_rd.spr	..\man\htfnguavang_ra02.spr	..\man\htfnguavang_ra02.spr
+TuyÕt V« ¶nh																																							..\man\htfnguatrangvang1_rs01.spr	..\man\htfnguatrangvang1_rw.spr	..\man\htfnguatrangvang1_rr.spr	..\man\htfnguatrangvang1_ra01.spr	..\man\htfnguatrangvang1_ra02.spr	..\man\htfnguatrangvang1_rm.spr	..\man\htfnguatrangvang1_rb.spr	..\man\htfnguatrangvang1_rd.spr	..\man\htfnguatrangvang1_ra02.spr	..\man\htfnguatrangvang1_ra02.spr
+B¹ch L©n																																							..\man\MA_HTF_119vip2_RD01.spr	..\man\MA_HTF_119vip2_HW01.spr	..\man\MA_HTF_119vip2_HR01.spr	..\man\MA_HTF_119vip2_HA01.spr	..\man\MA_HTF_119vip2_HA02.spr	..\man\MA_HTF_119vip2_HM01.spr	..\man\MA_HTF_119vip2_HI01.spr	..\man\MA_HTF_119vip2_HD01.spr	..\man\MA_HTF_119vip2_RD01.spr	..\man\MA_HTF_119vip2_RD01.spr

@@ -1,0 +1,4 @@
+[Begin]Account(melgm), Role(MelGameMaster)
+Money(2486105): Value(34)
+[End]Item Evaluate
+[End]Account(melgm), Role(MelGameMaster): ValueG(34), ValueS(0)

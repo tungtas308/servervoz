@@ -1,0 +1,28 @@
+[Begin]Account(testtl), Role(TestTL)
+Money(99980060): Value(1399)
+[End]Item Evaluate
+[End]Account(testtl), Role(TestTL): ValueG(1399), ValueS(0)
+[Begin]Account(testnm), Role(TestNM)
+Money(99992996): Value(1399)
+[End]Item Evaluate
+[End]Account(testnm), Role(TestNM): ValueG(1399), ValueS(0)
+[Begin]Account(testnd), Role(TestND)
+Money(100005241): Value(1400)
+[End]Item Evaluate
+[End]Account(testnd), Role(TestND): ValueG(1400), ValueS(0)
+[Begin]Account(testdm), Role(TestDM)
+Money(100017740): Value(1400)
+[End]Item Evaluate
+[End]Account(testdm), Role(TestDM): ValueG(1400), ValueS(0)
+[Begin]Account(testtn), Role(TestTN)
+Money(99993240): Value(1399)
+[End]Item Evaluate
+[End]Account(testtn), Role(TestTN): ValueG(1399), ValueS(0)
+[Begin]Account(testcl), Role(TestCL)
+Money(99992991): Value(1399)
+[End]Item Evaluate
+[End]Account(testcl), Role(TestCL): ValueG(1399), ValueS(0)
+[Begin]Account(testvd), Role(TestVD)
+Money(100067487): Value(1400)
+[End]Item Evaluate
+[End]Account(testvd), Role(TestVD): ValueG(1400), ValueS(0)

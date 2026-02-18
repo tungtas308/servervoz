@@ -1,0 +1,9 @@
+09/09/2025_22:46:58	8000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Cæ B¸ch 
+09/09/2025_22:56:05	8000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+09/09/2025_23:02:01	2000000	 Kinh nghiÖm ®· h¹ gôc tõ boss LiÔu Thanh Thanh 
+09/10/2025_19:49:39	8000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Tõ §¹i Nh¹c 
+09/10/2025_19:49:39	2000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+09/11/2025_00:09:34	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Cæ B¸ch 
+09/11/2025_00:09:34	4000000	Kinh nghiÖm ®øng gÇn lóc boss Cæ B¸ch bŞ tiªu diÖt.
+09/11/2025_00:14:37	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Cæ B¸ch 
+09/11/2025_00:14:37	4000000	Kinh nghiÖm ®øng gÇn lóc boss Cæ B¸ch bŞ tiªu diÖt.

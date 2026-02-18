@@ -1,0 +1,21 @@
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,1,8), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,3,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,1,8), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,4,7), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,4,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,4,7), unbind = 0, bind = 0

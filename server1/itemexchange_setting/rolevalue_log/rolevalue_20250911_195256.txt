@@ -1,0 +1,29 @@
+[Normal]Item: Thanh C©u Ban Lan Ph¸t §¸i(0,1,1005,16,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Ch©u Liªn(0,1,1004,3,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu §¸i(0,1,1018,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Hé UyÓn(0,1,1017,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ng Liªn(0,1,1014,2,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong TriÒn Thñ(0,1,1060,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong C¸i Y(0,1,1059,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Yªu Trôy(0,1,1012,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan TriÒn Thñ(0,1,1010,1,4,10), unbind = 0, bind = 20
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: §éng S¸t B¹ch Kim §iªu Long Giíi(0,1,142,0,3,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t B¹ch Ngäc Cµn Kh«n Béi(0,1,143,1,4,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t B¹ch Kim Tó Phông Giíi(0,1,144,0,0,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn(0,1,145,1,2,10), unbind = 0, bind = 100
+[Normal]Item: §éc C¬ §ao(0,0,1,1,1,9), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Th«n NhËt Tr·m(0,0,0,5,0,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,0,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ¤ V©n §¹p TuyÕt(0,0,10,5,0,6), unbind = 0, bind = 40

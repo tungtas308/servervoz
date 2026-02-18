@@ -1,0 +1,11 @@
+[Normal]Item: XÝch Long C©u(0,0,10,9,0,10), unbind = 0, bind = 8000
+[Normal]Item: §éng S¸t B¹ch Kim §iªu Long Giíi(0,1,142,0,3,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t B¹ch Ngäc Cµn Kh«n Béi(0,1,143,1,4,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t B¹ch Kim Tó Phông Giíi(0,1,144,0,0,10), unbind = 0, bind = 100
+[Normal]Item: §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn(0,1,145,1,2,10), unbind = 0, bind = 100
+[Normal]Item: HuyÒn ThiÕt KiÕm(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Toµn Th¹ch Giíi ChØ(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: HuyÒn ThiÕt KiÕm(0,0,0,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn chïy(0,0,0,4,3,10), unbind = 0, bind = 0
+[Normal]Item: Th«n NhËt Tr·m(0,0,0,5,3,10), unbind = 0, bind = 0

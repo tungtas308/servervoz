@@ -1,0 +1,34 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+322	1638	3172	204	198	Tr­êng B¹ch s¬n B¾c322	1724	3157	215	197	Tr­êng B¹ch s¬n B¾c
+322	1764	3188	220	199	Tr­êng B¹ch s¬n B¾c
+322	1801	3210	225	200	Tr­êng B¹ch s¬n B¾c
+322	1842	3154	230	197	Tr­êng B¹ch s¬n B¾c
+322	1888	3214	236	200	Tr­êng B¹ch s¬n B¾c
+322	1815	3279	226	204	Tr­êng B¹ch s¬n B¾c
+322	1872	3278	234	204	Tr­êng B¹ch s¬n B¾c
+322	1943	3270	242	204	Tr­êng B¹ch s¬n B¾c
+322	1976	3218	247	201	Tr­êng B¹ch s¬n B¾c
+322	2027	3226	253	201	Tr­êng B¹ch s¬n B¾c
+322	2001	3268	250	204	Tr­êng B¹ch s¬n B¾c
+322	1982	3350	247	209	Tr­êng B¹ch s¬n B¾c
+322	1917	3362	239	210	Tr­êng B¹ch s¬n B¾c
+322	1626	3363	203	210	Tr­êng B¹ch s¬n B¾c
+322	1601	3516	200	219	Tr­êng B¹ch s¬n B¾c
+322	1698	3448	212	215	Tr­êng B¹ch s¬n B¾c
+322	1763	3524	220	220	Tr­êng B¹ch s¬n B¾c
+322	1621	3610	202	225	Tr­êng B¹ch s¬n B¾c
+322	1692	3603	211	225	Tr­êng B¹ch s¬n B¾c
+322	1690	3771	211	235	Tr­êng B¹ch s¬n B¾c
+322	1651	3824	206	239	Tr­êng B¹ch s¬n B¾c
+322	1614	3920	201	245	Tr­êng B¹ch s¬n B¾c
+322	1719	3893	214	243	Tr­êng B¹ch s¬n B¾c
+322	1848	3615	231	225	Tr­êng B¹ch s¬n B¾c
+322	1913	3629	239	226	Tr­êng B¹ch s¬n B¾c
+322	1903	3509	237	219	Tr­êng B¹ch s¬n B¾c
+322	1983	3538	247	221	Tr­êng B¹ch s¬n B¾c
+322	2049	3524	256	220	Tr­êng B¹ch s¬n B¾c
+322	1917	3727	239	232	Tr­êng B¹ch s¬n B¾c
+322	1720	4039	215	252	Tr­êng B¹ch s¬n B¾c
+322	1755	4114	219	257	Tr­êng B¹ch s¬n B¾c
+322	1758	4114	219	257	Tr­êng B¹ch s¬n B¾c
+322	2013	4025	251	251	Tr­êng B¹ch s¬n B¾c

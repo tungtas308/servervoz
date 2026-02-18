@@ -1,0 +1,2 @@
+[Normal]Item: Phi ßao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi Th›ch(0,0,0,5,0,1), unbind = 0, bind = 0

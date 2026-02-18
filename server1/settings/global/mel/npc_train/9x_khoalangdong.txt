@@ -1,0 +1,4 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+75	1648	3232	206	202	Kho¶ Lang ®éng
+75	1617	3190	202	199	Kho¶ Lang ®éng
+75	1719	3092	214	193	Kho¶ Lang ®éng

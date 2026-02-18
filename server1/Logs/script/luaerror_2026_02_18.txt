@@ -1,0 +1,27 @@
+[2026-02-18 11:23:35] error: unfinished string;
+  last token read: `"Th?RÃn Th«n B?},' at line 97 in string "/script/global/autoexec.lua"
+
+[2026-02-18 11:24:46] error: attempt to call global `PET_IsCreate' (a nil value)
+stack traceback:
+   1[157]:  function `pFun' at line 364 [string "\script\global\general\lenhbaitanthu.lua"]
+   2[151]:  function `g_DailogBack' at line 52 [string "\script\dailogsys\dailogsay.lua"]
+   3[150]:  main of string "?" at line 1
+
+[2026-02-18 11:25:07] error: attempt to call global `PET_IsCreate' (a nil value)
+stack traceback:
+   1[157]:  function `pFun' at line 364 [string "\script\global\general\lenhbaitanthu.lua"]
+   2[151]:  function `g_DailogBack' at line 52 [string "\script\dailogsys\dailogsay.lua"]
+   3[150]:  main of string "?" at line 1
+
+[2026-02-18 11:27:53] error: attempt to call global `PET_IsCreate' (a nil value)
+stack traceback:
+   1[157]:  function `pFun' at line 364 [string "\script\global\general\lenhbaitanthu.lua"]
+   2[151]:  function `g_DailogBack' at line 52 [string "\script\dailogsys\dailogsay.lua"]
+   3[150]:  main of string "?" at line 1
+
+[2026-02-18 11:49:02] error: attempt to call global `PET_IsCreate' (a nil value)
+stack traceback:
+   1[157]:  function `pFun' at line 364 [string "\script\global\general\lenhbaitanthu.lua"]
+   2[151]:  function `g_DailogBack' at line 52 [string "\script\dailogsys\dailogsay.lua"]
+   3[150]:  main of string "?" at line 1
+

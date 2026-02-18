@@ -1,0 +1,61 @@
+[2025/12/05 19:02:13] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2025/12/05 19:02:13] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2025/12/05 19:02:13] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2025/12/05 19:02:13] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/12/05 19:02:13] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/12/05 19:02:13] Loading All Scripts....................
+[2025/12/05 19:02:13] Load Rank FUNC_RANK_EQUIPVALUE
+[2025/12/05 19:02:13] Load Stable Rank count 0
+[2025/12/05 19:02:13] Load Dynamic Rank count 0
+[2025/12/05 19:02:13] Load Rank FUNC_RANK_EQUIPVALUE end
+[2025/12/05 19:02:13] 
+All Scripts Have Been Loaded! Count = 83
+[2025/12/05 19:02:13] root client[:0] create
+[2025/12/05 19:02:15] start autotimer for Ping: 
+[2025/12/05 19:02:15] TRIP_MODE: None
+[2025/12/05 19:02:15] gateway client create: 127.0.0.1
+[2025/12/05 19:02:15] Loading World Setting...
+[2025/12/05 19:02:15] Reset map pho ban thanh cong
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 500, Leagues: 1, Roles: 1
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 502, Leagues: 8, Roles: 8
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 535, Leagues: 1, Roles: 0
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 8888, Leagues: 8, Roles: 0
+[2025/12/05 19:02:15] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2025/12/05 19:02:15] =====> THONG BAO TIN TUC TU DONG
+[2025/12/05 19:02:15] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2025/12/05 19:02:15] ================[START BOSS HOANG KIM [21:00 PM] ]==================
+[2025/12/05 19:02:15] =================Phong Lang Do 20:0================== 
+[2025/12/05 19:02:15] =====> CHIEN TRUONG TONG KIM BAT DAU DA LEN LICH GIO LE, BAT DAU TU 21:00 <=====
+[2025/12/05 19:02:15] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 20:0...
+[2025/12/05 19:02:15] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2025/12/05 19:02:15] =================GLOBALEXCUTECHAT=================
+[2025/12/05 19:02:15] Qua Hoang Kim
+[2025/12/05 19:02:15] =====> PHONG HOA LIEN THANH LEN LICH GIO CHAN, BAT DAU TU 20:00
+[2025/12/05 19:02:15] Failed to init statdatamanager!
+[2025/12/05 19:02:15] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2025/12/05 19:02:15] 
+*
+***** S3Relay Start (@ 163907888/00/43200 00:-3155368:135861597.136280271) >>>>>
+*
+
+
+[2025/12/05 19:02:15] SockThread start success
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Vuot Ai
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Phong Lang Do
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Tong Kim
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Boss Hoang Kim
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Boss Tieu Hoang Kim
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->That Thanh Dai Chien
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Doan Hoa Dang
+[2025/12/05 19:02:15] Tinh Nang Da Khoi Dong-->Lien Dau
+[2025/12/05 19:02:31] TongConnection create: 127.0.0.1
+[2025/12/05 19:02:31] ChatConnection create: 127.0.0.1
+[2025/12/05 19:02:31] HostConnection create: 127.0.0.1
+[2025/12/05 19:02:37] TongDataSendFinish: 127.0.0.1
+[2025/12/05 19:02:37] GameServerLogin: 127.0.0.1
+[2025/12/05 19:04:56] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/12/05 19:04:56] [2025-12-05 19:04:56]  NEW BATTLE START
+[2025/12/05 19:04:56] BattleID: 1   BattleLevel: 3   Issue: 1   5th.Round
+[2025/12/05 19:04:56] RoundID: 1   MapPattern: 9   BattleMapID:  1   WorldMapID: 380   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 6
+[2025/12/05 19:04:56] -------------------------------------------------------------------------------------------------

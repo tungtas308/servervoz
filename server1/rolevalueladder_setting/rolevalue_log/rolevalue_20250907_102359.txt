@@ -1,0 +1,34 @@
+[Normal]Item: Thanh C©u BÝ Linh Qu¸n(0,1,1025,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Yªu Trôy(0,1,1062,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Ngoa(0,1,1061,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ Giíi(0,1,1023,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu Trôy(0,1,1022,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Ngoa(0,1,1021,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang §éc NhÉn(0,1,1020,15,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang BÝ Trang(0,1,1019,0,4,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,14,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,10,11,0,10), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,14,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Long §µi(0,1,167,4,2,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long B¹ch Long Tøc(0,1,168,18,0,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long TrÊn Minh Liªn(0,1,169,1,1,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Cöu HiÖn chØ (0,1,170,0,2,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Ngäc Tiªu Diªu(0,1,171,1,4,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Hoµng Kim L©n(0,1,172,1,3,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Bµn Long c«i(0,1,173,1,0,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Long Khèc Thiªn Lý (0,1,174,1,4,6), unbind = 0, bind = 100
+[Normal]Item: Thiªn Hoµng Long Né Long §ång(0,1,175,0,1,6), unbind = 0, bind = 100
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: §¹i Phong §ao(0,0,0,1,3,10), unbind = 0, bind = 0
+[Normal]Item: Háa NhuÖ Th­¬ng(0,0,0,3,3,9), unbind = 0, bind = 0

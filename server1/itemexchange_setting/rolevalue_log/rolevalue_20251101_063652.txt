@@ -1,0 +1,2461 @@
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,1,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,1,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,2,2), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,3,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,1,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,4,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,0,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,1,2), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,4,2), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,1,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,2,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,3,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,1,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,2,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,1,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,2,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,3,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,4,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,0,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,0,2), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,3,3), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,4,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,3,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,1,1), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,0,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: C¶m L·m Th¹ch Giíi ChØ(0,0,3,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,4,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,3,2), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,3,2), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,0,2), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,4,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,4,2), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,1,2), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,0,4), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,0,4), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,1,1), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,2,2), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,4,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,3,1), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,2,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,2,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,4,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,3,3), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,0,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,4,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,0,2), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,0,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,0,2), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,3,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,0,4), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,4,2), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,1,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,0,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,1,2), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,3,3), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,3,2), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,2,2), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,2,1), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,4,1), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,2,2), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,4,3), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,1,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,0,2), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,0,2), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,0,2), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,0,2), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,2,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,2,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,3,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,0,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,2,2), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,2,2), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,3,3), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,4,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: PhØ Thóy Giíi ChØ(0,0,3,0,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,2,1), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,2,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,2,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,2,2), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,2,3), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,3,3), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,2,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,3,3), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,2,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,4,3), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,1,1), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,1,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,1,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,4,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,2,2), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,3,3), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,3,1), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,3,2), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,1,6), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,2,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,0,3), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,1,2), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,1,6), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,2,7), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,0,3), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,1,6), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,1,6), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,1,2), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,1,2), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,2,3), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,0,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,2,2), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,1,6), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,0,2), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,0,2), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,3,3), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,0,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,0,3), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,4,2), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,4,3), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,4,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,0,3), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,0,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,2,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,0,2), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,1,2), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,3,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: TÒ Mi C«n (0,0,0,2,4,2), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,2,3), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,3,2), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Quang C¸n §ao(0,0,1,1,3,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,3,3), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,4,3), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,3,2), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,0,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,3,3), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,4,2), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,0,4), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,0,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,0,2), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,0,3), unbind = 0, bind = 0
+[Normal]Item: C¶m L·m Th¹ch Giíi ChØ(0,0,3,0,3,2), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,0,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,4,2), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,2,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,0,2), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,0,2), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,4,2), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,1,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,0,4), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,3,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,2,2), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,2,3), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,4,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,0,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,3,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,2,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,0,4), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,3,2), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,3,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,3,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,1,2), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,0,4), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,2,2), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,0,4), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,1,6), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,3,2), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,1,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,1,6), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,4,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,0,4), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,1,6), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,0,4), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,1,6), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,2,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,2,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,1,3), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,1,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,1,6), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,4,3), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,3,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Yªu §ao(0,0,0,1,3,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: Hoµng Ngäc Giíi ChØ(0,0,3,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,2,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,3,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,1,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,2,1), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,4,2), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,2,2), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,2,1), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,4,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,2,8), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,1,6), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,2,3), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: PhØ Thóy Giíi ChØ(0,0,3,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,4,1), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,0,8), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,2,3), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,3,8), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,4,3), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,1,6), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,4,2), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Tóc §Ó Ch©m(0,0,1,2,2,2), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,1,2), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,2,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,3,3), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,4,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,2,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: PhØ Thóy Giíi ChØ(0,0,3,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,0,4), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,2,1), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,2,8), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,4,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,4,8), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,3,2), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,1,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,4,2), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,4,3), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,1,8), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,1,7), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,4,8), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,2,1), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,3,1), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,3,7), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,3,7), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,2,1), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,3,2), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,1,8), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,2,2), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,3,3), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,4,3), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,3,3), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,3,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,4,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,1,7), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,0,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,4,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,1,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,4,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,3,8), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,2,2), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,1,1), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,4,8), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,3,2), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,3,3), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,4,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,1,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,3,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,4,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,4,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,4,2), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,2,3), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,0,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,2,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,2,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: TÒ Mi C«n (0,0,0,2,3,2), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,0,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,3,7), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,3,3), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phï Dung §ao(0,0,0,5,3,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,1,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,1,6), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,3,2), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,0,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung Th¹ch Giíi ChØ(0,0,3,0,2,3), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,4,3), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,1,6), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,2,8), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,0,4), unbind = 0, bind = 0
+[Normal]Item: Kim TiÒn tiªu(0,0,1,0,1,1), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tiªu Bæng(0,0,0,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,1,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,3,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,3,2), unbind = 0, bind = 0
+[Normal]Item: PhØ Thóy Giíi ChØ(0,0,3,0,4,4), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,1,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,2,2), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,4,8), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Lang Nha Bæng(0,0,0,2,0,7), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: §µo Hoa §ao(0,0,1,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,1,2), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Cang KiÕm(0,0,0,0,4,2), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,1,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,2,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,0,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,1,8), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,3,3), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,3,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,0,5), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,4,1), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,1,8), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,0,3), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: YÕn tö Tiªu(0,0,1,0,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,0,5), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,3,3), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,1,6), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,3,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,4,8), unbind = 0, bind = 0
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,1,6), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,2,8), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,1,8), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Thóy Lùu Th¹ch Giíi ChØ(0,0,3,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,4,8), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: PhØ Thóy Giíi ChØ(0,0,3,0,4,4), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,1,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,0,7), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,0,2), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m T¸o Nh©n Tiªu(0,0,1,0,1,2), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,0,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,4,5), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,3,2), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,1,8), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,0,2), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,0,8), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha ThÝch(0,0,0,5,0,3), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,4,8), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,1,6), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,0,5), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,0,7), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,0,4), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,0,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,4,8), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,4,3), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,3,2), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,0,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,0,5), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,0,8), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,3,3), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,3,2), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,3,2), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,0,4), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,4,7), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,3,3), unbind = 0, bind = 0
+[Normal]Item: TÝch LÞch chïy(0,0,0,4,4,4), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,4,3), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: Tr­êng Th­¬ng(0,0,0,3,2,2), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,3,8), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,2,6), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,1,8), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong KiÕm(0,0,0,0,1,3), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,1,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,2,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,2,7), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,4,8), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,4,1), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,1,7), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: Tr·m M· KiÕm(0,0,0,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,0,5), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,4,4), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,1,8), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Phong §inh(0,0,1,2,4,4), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Gia C¸t Nç (0,0,1,2,1,9), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: §¬n §ao(0,0,0,1,4,2), unbind = 0, bind = 0
+[Normal]Item: B¸t L¨ng chïy(0,0,0,4,4,2), unbind = 0, bind = 0
+[Normal]Item: Háa NhuÖ Th­¬ng(0,0,0,3,4,9), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,2,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,3,8), unbind = 0, bind = 0
+[Normal]Item: TuyÕt Hoa L­îng Ng©n §ao(0,0,0,5,4,5), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp §ao(0,0,1,1,1,3), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Hæ VÜ C«n (0,0,0,2,0,4), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,4,8), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,0,8), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,0,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,1,8), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,3,8), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,0,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,4,8), unbind = 0, bind = 0
+[Normal]Item: YÓn NguyÖt §ao(0,0,0,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,0,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Long TuyÒn KiÕm(0,0,0,0,0,4), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,3,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,3,8), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,3,7), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: XØ KhiÕp(0,0,0,0,1,7), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,1,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,2,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: XØ KhiÕp(0,0,0,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,4,8), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,1,6), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,0,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,3,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,2,7), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: ThËp tù tiªu(0,0,1,0,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: §¸i Y §ao(0,0,1,1,0,5), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,2,8), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,2,8), unbind = 0, bind = 0
+[Normal]Item: Bµn Hoa C«n (0,0,0,2,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,1,8), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,2,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Gi¸p Nç (0,0,1,2,4,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,2,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,1,7), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Phong §ao(0,0,0,1,2,6), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,2,6), unbind = 0, bind = 0
+[Normal]Item: ¤ Kim KiÕm(0,0,0,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Hµm Sa X¹ ¶nh(0,0,1,2,2,6), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,1,8), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,4,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,0,5), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha chïy(0,0,0,4,1,6), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: TÊn ThiÕt Song §ao(0,0,0,5,4,2), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,4,3), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,2,8), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,4,8), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,1,6), unbind = 0, bind = 0
+[Normal]Item: Can Bæng(0,0,0,2,1,6), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,1,2), unbind = 0, bind = 0
+[Normal]Item: Cang Phi §ao(0,0,1,1,1,2), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,3,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: Kim Phong Thanh D­¬ng Kh«i(0,1,176,4,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Kú L©n HuyÕt(0,1,177,18,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Tr¹c Liªn Quang(0,1,178,1,1,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong C«ng CÈn Tam Th¸n(0,1,179,0,2,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §o¹t Hån Ngäc ®¸i(0,1,180,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong HËu NghÖ dÉn cung(0,1,181,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Lan §×nh Ngäc(0,1,182,1,0,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong Thiªn Lý Th¶o Th­îng Phi(0,1,183,1,4,5), unbind = 0, bind = 100
+[Normal]Item: Kim Phong §ång T­íc Xu©n Th©m(0,1,184,0,1,5), unbind = 0, bind = 100
+[Normal]Item: Hång B¶o Th¹ch Giíi ChØ(0,0,3,0,4,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,0,8), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,0,8), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,1,8), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Tinh Trang Tô TiÔn(0,0,1,2,1,3), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,4,7), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,1,8), unbind = 0, bind = 0
+[Normal]Item: ThÊt XÝch KiÕm(0,0,0,0,3,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,0,8), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,0,8), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Phi Hoµng Tiªu(0,0,1,0,1,6), unbind = 0, bind = 0
+[Normal]Item: Cang KiÕm(0,0,0,0,2,2), unbind = 0, bind = 0
+[Normal]Item: L­îng Ng©n chïy (0,0,0,4,4,5), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,0,7), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,4,7), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,0,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,2,8), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,3,8), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,4,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n VÜ §ao(0,0,1,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,4,8), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,2,7), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,4,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,4,3), unbind = 0, bind = 0
+[Normal]Item: Hoµn tö Th­¬ng(0,0,0,3,0,5), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh §ao(0,0,0,1,4,4), unbind = 0, bind = 0
+[Normal]Item: Quang C¸n §ao(0,0,1,1,2,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,0,8), unbind = 0, bind = 0
+[Normal]Item: Ngò Tinh chïy(0,0,0,4,1,3), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: Hçn ThiÕt Bæng(0,0,0,2,0,8), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,2,7), unbind = 0, bind = 0
+[Normal]Item: Cæn Ch©u B¶o ®ao(0,0,0,1,2,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,4,5), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,1,8), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: Uyªn ¦¬ng §ao(0,0,0,5,2,6), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,4,8), unbind = 0, bind = 0
+[Normal]Item: Kim Qua chïy(0,0,0,4,3,8), unbind = 0, bind = 0
+[Normal]Item: §iÓm Cang Th­¬ng(0,0,0,3,1,3), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,2,7), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,0,5), unbind = 0, bind = 0
+[Normal]Item: C©u Liªm Th­¬ng(0,0,0,3,4,4), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Tiªu(0,0,1,0,2,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,1,8), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,1,7), unbind = 0, bind = 0
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,3,8), unbind = 0, bind = 0
+[Normal]Item: Tiªu Bæng(0,0,0,2,4,5), unbind = 0, bind = 0
+[Normal]Item: H¾c B¹ch Song §ao(0,0,0,5,4,4), unbind = 0, bind = 0
+[Normal]Item: NguyÖt Nha §ao(0,0,0,1,4,5), unbind = 0, bind = 0
+[Normal]Item: Quû §Çu §ao(0,0,0,1,1,3), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: Bèi Trang Nç (0,0,1,2,0,5), u

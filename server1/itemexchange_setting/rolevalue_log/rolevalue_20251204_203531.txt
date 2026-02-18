@@ -1,0 +1,215 @@
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong §Çu Hoµn(0,1,1055,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Th­îng Giíi(0,1,1056,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Tr­êng Sam(0,1,979,2,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c TriÒn Thñ(0,1,980,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ngoa(0,1,981,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H­¬ng Nang(0,1,982,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H¹ Giíi(0,1,983,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La Sam(0,1,989,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La §ao(0,1,990,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La Hµi(0,1,991,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La H­¬ng Nang(0,1,992,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La H¹ Giíi(0,1,993,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ch©u Liªn(0,1,974,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ph¸t §¸i(0,1,975,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Th­îng Giíi(0,1,976,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Hé UyÓn(0,1,977,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Thóc Yªu(0,1,978,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ch©u Liªn(0,1,974,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ph¸t §¸i(0,1,975,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Th­îng Giíi(0,1,976,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Hé UyÓn(0,1,977,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Thóc Yªu(0,1,978,0,2,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u §¹i Lùc Kh¶i(0,1,959,2,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc B¶o §ao(0,1,960,16,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Ngoa(0,1,961,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Yªu Trôy(0,1,962,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc ChØ Hoµn(0,1,963,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ng Liªn(0,1,1054,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Tr­êng KiÕm(0,1,970,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Hµi(0,1,971,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Ch©u Liªn(0,1,964,1,2,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Th­¬ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong Hé UyÓn(0,1,1057,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Thóc Yªu(0,1,1058,3,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong C¸i Y(0,1,1059,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong TriÒn Thñ(0,1,1060,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan BÝ Trang(0,1,1009,2,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan TriÒn Thñ(0,1,1010,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Ngoa(0,1,1011,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Yªu Trôy(0,1,1012,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan H¹ Giíi(0,1,1013,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ng Liªn(0,1,1014,2,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Ph¸t §¸i(0,1,1015,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Th­îng Giíi(0,1,1016,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Hé UyÓn(0,1,1017,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu §¸i(0,1,1018,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Ch©u Liªn(0,1,1004,3,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Ph¸t §¸i(0,1,1005,16,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Th­îng Giíi(0,1,1006,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Hé UyÓn(0,1,1007,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Yªu §¸i(0,1,1008,0,1,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u TuyÕt S¾c Thóc Yªu(0,1,978,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Th­îng Giíi(0,1,976,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ch©u Liªn(0,1,974,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Hé UyÓn(0,1,977,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ph¸t §¸i(0,1,975,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La Sam(0,1,989,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H¹ Giíi(0,1,983,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H­¬ng Nang(0,1,982,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ngoa(0,1,981,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c TriÒn Thñ(0,1,980,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Tr­êng Sam(0,1,979,2,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong §Çu Hoµn(0,1,1055,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ Giíi(0,1,1063,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Liªn Hoa H¹ng Liªn(0,1,1064,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Liªn Hoa §Çu Hoµn(0,1,1065,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Gi¸p(0,1,1029,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Phi §ao(0,1,1030,15,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Lý(0,1,1031,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Yªu Trôy(0,1,1032,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh H¹ Giíi(0,1,1033,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Gi¸p(0,1,1039,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n TiÔn(0,1,1040,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Lý(0,1,1041,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Yªu Trôy(0,1,1042,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n H¹ Giíi(0,1,1043,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n H¹ng Liªn(0,1,1034,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Qu¸n(0,1,1035,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Th­îng Giíi(0,1,1036,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Hé UyÓn(0,1,1037,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Thóc Yªu(0,1,1038,0,0,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tµn V©n Qu¸n(0,1,1035,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n H¹ Giíi(0,1,1043,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Gi¸p(0,1,1039,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh H¹ Giíi(0,1,1033,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Yªu Trôy(0,1,1032,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Lý(0,1,1031,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Phi §ao(0,1,1030,15,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Gi¸p(0,1,1029,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ Giíi(0,1,1063,1,3,10), unbind = 0, bind = 20
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong Ngoa(0,1,1061,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Yªu Trôy(0,1,1062,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang BÝ Trang(0,1,1019,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang §éc NhÉn(0,1,1020,15,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Ngoa(0,1,1021,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu Trôy(0,1,1022,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ Giíi(0,1,1023,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh H¹ng Liªn(0,1,1024,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Qu¸n(0,1,1025,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Th­îng Giíi(0,1,1026,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Hé UyÓn(0,1,1027,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Thóc Yªu(0,1,1028,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Kim Quang TrÝch Tinh Hoµn(0,1,193,5,3,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang §­êng Nghª Gi¸p(0,1,194,4,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Lôc PhØ Thóy Hé Th©n Phï(0,1,195,1,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang B¾c Kinh Chi Méng(0,1,196,0,3,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang B¹ch Kim Yªu §¸i(0,1,197,1,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Thiªn Tµm Hé UyÓn(0,1,198,1,3,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Ngò S¾c Ngäc Béi(0,1,199,1,3,5), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Thiªn Tµm Ngoa(0,1,200,1,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Nh· §iÓn Chi Hån(0,1,201,0,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang B«n L«i Toµn Long Th­¬ng(0,1,202,3,2,10), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Phi Tinh Th­îng Giíi(0,1,1046,1,2,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Tø Kh«ng Giíi LuËt Ph¸p giíi(0,1,14,0,2,10), unbind = 0, bind = 50
+[Normal]Item: Tø Kh«ng NhuyÔn B× Hé UyÓn(0,1,13,1,1,10), unbind = 0, bind = 50
+[Normal]Item: Tø Kh«ng Hé ph¸p Yªu ®¸i(0,1,12,0,3,10), unbind = 0, bind = 50
+[Normal]Item: Tø Kh«ng Tö Kim Cµ Sa(0,1,11,0,4,10), unbind = 0, bind = 50
+[Normal]Item: Tø Kh«ng Gi¸ng Ma Giíi ®ao(0,1,10,1,0,10), unbind = 0, bind = 50
+[Normal]Item: Thanh C©u La H¸n PhËt Ch©u(0,1,904,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n Hé UyÓn(0,1,907,1,4,10), unbind = 0, bind = 20
+[Normal]Item:  §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn(0,1,163,0,4,10), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tö Kim Liªn(0,1,934,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tö Kim Kh«i(0,1,935,7,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tö Kim H¹ Giíi(0,1,936,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tö Kim Thóc UyÓn(0,1,937,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tö Kim Thóc Yªu(0,1,938,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Phi Tinh TriÒn Yªu(0,1,1048,3,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Hæ §Çu Liªn(0,1,944,7,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Hæ §Çu Kh«i(0,1,945,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Hæ §Çu Hé UyÓn(0,1,947,0,0,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u V« S¾c Ch©u Liªn(0,1,964,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Hµi(0,1,971,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Tr­êng KiÕm(0,1,970,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ng Liªn(0,1,1054,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc ChØ Hoµn(0,1,963,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Yªu Trôy(0,1,962,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Ngoa(0,1,961,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc B¶o §ao(0,1,960,16,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Kh¶i(0,1,959,2,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Kh¶i(0,1,959,2,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc B¶o §ao(0,1,960,16,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Ngoa(0,1,961,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc Yªu Trôy(0,1,962,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u §¹i Lùc ChØ Hoµn(0,1,963,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ng Liªn(0,1,1054,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Tr­êng KiÕm(0,1,970,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Hµi(0,1,971,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u V« S¾c Ch©u Liªn(0,1,964,1,2,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong §Çu Hoµn(0,1,1055,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Tr­êng Sam(0,1,979,2,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c TriÒn Thñ(0,1,980,1,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ngoa(0,1,981,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H­¬ng Nang(0,1,982,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c H¹ Giíi(0,1,983,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tè La Sam(0,1,989,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ph¸t §¸i(0,1,975,3,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Hé UyÓn(0,1,977,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Ch©u Liªn(0,1,974,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Th­îng Giíi(0,1,976,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u TuyÕt S¾c Thóc Yªu(0,1,978,0,2,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Tr­êng Phong Hé UyÓn(0,1,1057,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Ch©u Liªn(0,1,994,5,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Tr©m(0,1,995,5,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Th­îng Giíi(0,1,996,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Tô(0,1,997,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Yªu §¸i(0,1,998,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝch La Sam(0,1,999,2,2,10), unbind = 0, bind = 20
+[Normal]Item:  §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn(0,1,163,0,4,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang Thiªn Tµm Ngoa(0,1,200,1,2,10), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Thanh C©u Ban Lan Ph¸t §¸i(0,1,1005,16,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Ch©u Liªn(0,1,1004,3,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu §¸i(0,1,1018,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Hé UyÓn(0,1,1017,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Th­îng Giíi(0,1,1016,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Ph¸t §¸i(0,1,1015,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ng Liªn(0,1,1014,2,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ban Lan Yªu Trôy(0,1,1012,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong TriÒn Thñ(0,1,1060,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong H¹ Giíi(0,1,1063,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Gi¸p(0,1,1029,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Phi §ao(0,1,1030,15,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Lý(0,1,1031,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh Yªu Trôy(0,1,1032,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u BÝ Linh H¹ Giíi(0,1,1033,0,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Gi¸p(0,1,1039,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n H¹ Giíi(0,1,1043,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tµn V©n Qu¸n(0,1,1035,1,3,10), unbind = 0, bind = 20
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,11,595,0,1), unbind = 0, bind = 0
+[Normal]Item: Kim Quang Thiªn Tµm Ngoa(0,1,200,1,2,10), unbind = 0, bind = 100
+[Normal]Item: Kim Quang TrÝch Tinh Hoµn(0,1,193,5,3,10), unbind = 0, bind = 100
+[Normal]Item: Thanh C©u BÝ Linh Qu¸n(0,1,1025,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang H¹ Giíi(0,1,1023,0,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang Yªu Trôy(0,1,1022,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang §éc NhÉn(0,1,1020,15,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Lôc Quang BÝ Trang(0,1,1019,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Yªu Trôy(0,1,1062,1,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Tr­êng Phong Ngoa(0,1,1061,1,1,10), unbind = 0, bind = 20

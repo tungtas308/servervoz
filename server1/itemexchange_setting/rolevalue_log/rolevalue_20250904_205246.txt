@@ -1,0 +1,10 @@
+[Normal]Item: To∏n ß«u chÔy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: TÙ Ti‘n(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thi’t TrÒy thÒ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Thi’t TrÒy thÒ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: TÙ Ti‘n(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: TÙ Ti‘n(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: To∏n ß«u chÔy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Thi’t Th≠¨ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: Thi’t Th≠¨ng(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: TÙ Ti‘n(0,0,1,2,0,1), unbind = 0, bind = 0

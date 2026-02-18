@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+1012	1615	3201	201	200	Masage Room 2

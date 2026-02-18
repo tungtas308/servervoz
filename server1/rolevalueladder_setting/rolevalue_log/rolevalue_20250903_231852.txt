@@ -1,0 +1,7 @@
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0

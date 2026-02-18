@@ -1,0 +1,69 @@
+[2026/02/18 00:12:39] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2026/02/18 00:12:39] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2026/02/18 00:12:39] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2026/02/18 00:12:39] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2026/02/18 00:12:39] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2026/02/18 00:12:39] Loading All Scripts....................
+[2026/02/18 00:12:39] Load Rank FUNC_RANK_EQUIPVALUE
+[2026/02/18 00:12:39] Load Stable Rank count 0
+[2026/02/18 00:12:39] Load Dynamic Rank count 0
+[2026/02/18 00:12:39] Load Rank FUNC_RANK_EQUIPVALUE end
+[2026/02/18 00:12:39] 
+All Scripts Have Been Loaded! Count = 83
+[2026/02/18 00:12:39] root client[:0] create
+[2026/02/18 00:12:41] start autotimer for Ping: 
+[2026/02/18 00:12:41] TRIP_MODE: None
+[2026/02/18 00:12:41] Loading World Setting...
+[2026/02/18 00:12:41] Reset map pho ban thanh cong
+[2026/02/18 00:12:41] gateway client create: 127.0.0.1
+[2026/02/18 00:12:41] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2026/02/18 00:12:41] Load LeagueData: LeagueType: 502, Leagues: 8, Roles: 8
+[2026/02/18 00:12:41] =====> THONG BAO TIN TUC TU DONG
+[2026/02/18 00:12:41] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2026/02/18 00:12:41] ================[START BOSS HOANG KIM [20:45 PM] ]==================
+[2026/02/18 00:12:41] =================Phong Lang Do 1:0================== 
+[2026/02/18 00:12:41] =====> CHIEN TRUONG TONG KIM BAT DAU DA LEN LICH GIO LE, BAT DAU TU 01:00 <=====
+[2026/02/18 00:12:41] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 1:0...
+[2026/02/18 00:12:41] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2026/02/18 00:12:41] =================GLOBALEXCUTECHAT=================
+[2026/02/18 00:12:41] Qua Hoang Kim
+[2026/02/18 00:12:41] =====> PHONG HOA LIEN THANH LEN LICH GIO CHAN, BAT DAU TU 02:00
+[2026/02/18 00:12:41] ================[START BOSS HOANG KIM [12:45 PM] ]==================
+[2026/02/18 00:12:41] Failed to init statdatamanager!
+[2026/02/18 00:12:41] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2026/02/18 00:12:41] 
+*
+***** S3Relay Start (@ 166201648/00/43200 00:-6681816:135861597.136280271) >>>>>
+*
+
+
+[2026/02/18 00:12:41] SockThread start success
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Vuot Ai
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Phong Lang Do
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Tong Kim
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Boss Hoang Kim
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Boss Tieu Hoang Kim
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->That Thanh Dai Chien
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Doan Hoa Dang
+[2026/02/18 00:12:41] Tinh Nang Da Khoi Dong-->Lien Dau
+[2026/02/18 00:12:49] ChatConnection create: 127.0.0.1
+[2026/02/18 00:12:49] TongConnection create: 127.0.0.1
+[2026/02/18 00:12:49] HostConnection create: 127.0.0.1
+[2026/02/18 00:12:52] TongDataSendFinish: 127.0.0.1
+[2026/02/18 00:12:52] GameServerLogin: 127.0.0.1
+[2026/02/18 00:12:52] Assign Dynamic map(948,70011) for GS:0
+[2026/02/18 00:12:52] GS:0 Total Dynamic map:1
+[2026/02/18 00:12:52] GS:0 Total Static map:673
+[2026/02/18 00:12:52] Assign Dynamic map(948,70012) for GS:0
+[2026/02/18 00:12:52] GS:0 Total Dynamic map:2
+[2026/02/18 00:12:52] GS:0 Total Static map:673
+[2026/02/18 00:12:52] Assign Dynamic map(948,70013) for GS:0
+[2026/02/18 00:12:52] GS:0 Total Dynamic map:3
+[2026/02/18 00:12:52] GS:0 Total Static map:673
+[2026/02/18 00:12:52] Assign Dynamic map(948,70014) for GS:0
+[2026/02/18 00:12:52] GS:0 Total Dynamic map:4
+[2026/02/18 00:12:52] GS:0 Total Static map:673
+[2026/02/18 00:12:52] Assign Dynamic map(948,70015) for GS:0
+[2026/02/18 00:12:52] GS:0 Total Dynamic map:5
+[2026/02/18 00:12:52] GS:0 Total Static map:673
+[2026/02/18 00:12:52] A

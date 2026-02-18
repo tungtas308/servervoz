@@ -1,0 +1,28 @@
+2026-02-18 11:23:18	Node[0] connect: Ip(127.0.0.1 : 33238), Identity(0)
+2026-02-18 11:23:18	ClientConnectCreate:[0]127.0.0.1 : 33238
+2026-02-18 11:23:18	Bishop claim from Node[0]!
+2026-02-18 11:23:21	GetRoleInfo(hoason) OK: Enter Node[0](127.0.0.1 : 33238)
+2026-02-18 11:23:21	GetRoleData(hoason) OK: datalen(1648)
+2026-02-18 11:23:21	LeaveBishop[hoason] OK: Leave Node[0]
+2026-02-18 11:23:31	GetRoleInfo(hoason) OK: Enter Node[0](127.0.0.1 : 33238)
+2026-02-18 11:23:31	GetRoleData(hoason) OK: datalen(1648)
+2026-02-18 11:23:31	LeaveBishop[hoason] OK: Leave Node[0]
+2026-02-18 11:23:36	Node[1] connect: Ip(127.0.0.1 : 55513), Identity(1)
+2026-02-18 11:23:36	ClientConnectCreate:[1]127.0.0.1 : 55513
+2026-02-18 11:23:43	GetRoleInfo(hoason) OK: Enter Node[0](127.0.0.1 : 33238)
+2026-02-18 11:23:43	GetRoleData(hoason) OK: datalen(1648)
+2026-02-18 11:23:43	LeaveBishop[hoason] OK: Leave Node[0]
+2026-02-18 11:23:53	GetRoleInfo(hoason) OK: Enter Node[0](127.0.0.1 : 33238)
+2026-02-18 11:23:53	GetRoleData(hoason) OK: datalen(1648)
+2026-02-18 11:23:53	LeaveBishop[hoason] OK: Leave Node[0]
+2026-02-18 11:24:04	GetRoleInfo(hoason) OK: Enter Node[0](127.0.0.1 : 33238)
+2026-02-18 11:24:04	GetRoleData(hoason) OK: datalen(1648)
+2026-02-18 11:24:04	EnterGame(hoason) OK: Move from Node[0] to Node[1]
+2026-02-18 11:54:13	QuitSave[hoason] OK: Leave Node[1]
+2026-02-18 11:54:13	SaveRoleData(hoason) OK: datalen(1811)
+2026-02-18 11:54:30	Node[1] disconnect: Ip(127.0.0.1 : 55513), Identity(1)
+2026-02-18 11:54:30	ClientConnectClose:[1]
+
+2026-02-18 11:54:31	Node[0] disconnect: Ip(127.0.0.1 : 33238), Identity(0)
+2026-02-18 11:54:31	ClientConnectClose:[0]
+

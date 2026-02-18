@@ -1,0 +1,4 @@
+[Normal]Item: B¹o Vò Lª Hoa Ch©m(0,0,1,2,0,8), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,2,8), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,1,7), unbind = 0, bind = 0
+[Normal]Item: H¶i Lam B¶o Th¹ch Giíi ChØ(0,0,3,0,4,7), unbind = 0, bind = 0

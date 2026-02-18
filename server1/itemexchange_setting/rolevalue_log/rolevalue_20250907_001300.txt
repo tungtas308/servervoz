@@ -1,0 +1,3 @@
+[Normal]Item: Siªu Quang(0,0,10,13,3,10), unbind = 0, bind = 20000
+[Enchasable]Item: (0,2,10,13,0,10), unbind = 0, bind = 0
+[Normal]Item: Siªu Quang(0,0,10,13,0,10), unbind = 0, bind = 20000

@@ -1,0 +1,3 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+226	1606	3144	200	196	Sa M¹c 2
+226	1624	3230	203	201	Sa M¹c 2

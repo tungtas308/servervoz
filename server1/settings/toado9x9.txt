@@ -1,0 +1,7 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+144	1668	3110	208	194	D­îc V­¬ng ®éng tÇng 4
+144	1607	3172	200	198	D­îc V­¬ng ®éng tÇng 4
+144	1741	3179	217	198	D­îc V­¬ng ®éng tÇng 4
+144	1622	3059	202	191	D­îc V­¬ng ®éng tÇng 4
+144	1762	3080	220	192	D­îc V­¬ng ®éng tÇng 4
+144	1770	3130	221	195	D­îc V­¬ng ®éng tÇng 4

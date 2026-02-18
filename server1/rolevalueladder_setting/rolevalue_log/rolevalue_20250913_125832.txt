@@ -1,0 +1,2 @@
+[Normal]Item: Phi §ao(0,0,1,1,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,14,1,0,1), unbind = 0, bind = 0

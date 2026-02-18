@@ -1,0 +1,4 @@
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn(0,1,496,1,2,10), unbind = 0, bind = 100
+[Normal]Item: To¹i Nh©n XÝch HuyÕt Nguyªn Vò Gi¸p(0,1,441,3,0,10), unbind = 0, bind = 100
+[Normal]Item: B«n Tiªu(0,0,10,6,0,10), unbind = 0, bind = 200

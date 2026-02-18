@@ -1,0 +1,68 @@
+[2025/11/29 10:11:06] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2025/11/29 10:11:06] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2025/11/29 10:11:06] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2025/11/29 10:11:06] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/11/29 10:11:06] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/11/29 10:11:06] Loading All Scripts....................
+[2025/11/29 10:11:06] Load Rank FUNC_RANK_EQUIPVALUE
+[2025/11/29 10:11:06] Load Stable Rank count 0
+[2025/11/29 10:11:06] Load Dynamic Rank count 0
+[2025/11/29 10:11:06] Load Rank FUNC_RANK_EQUIPVALUE end
+[2025/11/29 10:11:06] 
+All Scripts Have Been Loaded! Count = 83
+[2025/11/29 10:11:06] root client[:0] create
+[2025/11/29 10:11:08] start autotimer for Ping: 
+[2025/11/29 10:11:08] gateway client create: 127.0.0.1
+[2025/11/29 10:11:08] TRIP_MODE: None
+[2025/11/29 10:11:08] Loading World Setting...
+[2025/11/29 10:11:08] Reset map pho ban thanh cong
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 500, Leagues: 6, Roles: 6
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 502, Leagues: 19, Roles: 19
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 8888, Leagues: 3, Roles: 0
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 9999, Leagues: 1, Roles: 0
+[2025/11/29 10:11:08] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2025/11/29 10:11:08] =====> THONG BAO TIN TUC TU DONG
+[2025/11/29 10:11:08] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2025/11/29 10:11:08] ================[START BOSS HOANG KIM [21:00 PM] ]==================
+[2025/11/29 10:11:08] =================Phong Lang Do 11:0================== 
+[2025/11/29 10:11:08] =====> CHIEN TRUONG TONG KIM BAT DAU DA LEN LICH GIO LE, BAT DAU TU 11:00 <=====
+[2025/11/29 10:11:08] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 11:0...
+[2025/11/29 10:11:08] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2025/11/29 10:11:08] =================GLOBALEXCUTECHAT=================
+[2025/11/29 10:11:08] Qua Hoang Kim
+[2025/11/29 10:11:08] =====> PHONG HOA LIEN THANH LEN LICH GIO CHAN, BAT DAU TU 12:00
+[2025/11/29 10:11:08] Failed to init statdatamanager!
+[2025/11/29 10:11:08] SockThread start success
+[2025/11/29 10:11:08] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2025/11/29 10:11:08] 
+*
+***** S3Relay Start (@ 167856432/00/43200 00:-6975336:135861597.136280271) >>>>>
+*
+
+
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Vuot Ai
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Phong Lang Do
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Tong Kim
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Boss Hoang Kim
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Boss Tieu Hoang Kim
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->That Thanh Dai Chien
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Doan Hoa Dang
+[2025/11/29 10:11:08] Tinh Nang Da Khoi Dong-->Lien Dau
+[2025/11/29 10:11:23] ChatConnection create: 127.0.0.1
+[2025/11/29 10:11:23] HostConnection create: 127.0.0.1
+[2025/11/29 10:11:23] TongConnection create: 127.0.0.1
+[2025/11/29 10:11:29] TongDataSendFinish: 127.0.0.1
+[2025/11/29 10:11:29] GameServerLogin: 127.0.0.1
+[2025/11/29 10:11:29] Assign Dynamic map(948,70541) for GS:0
+[2025/11/29 10:11:29] GS:0 Total Dynamic map:1
+[2025/11/29 10:11:29] GS:0 Total Static map:673
+[2025/11/29 10:11:29] Assign Dynamic map(948,70542) for GS:0
+[2025/11/29 10:11:29] GS:0 Total Dynamic map:2
+[2025/11/29 10:11:29] GS:0 Total Static map:673
+[2025/11/29 10:11:29] Assign Dynamic map(948,70543) for GS:0
+[2025/11/29 10:11:29] GS:0 Total Dynamic map:3
+[2025/11/29 10:11:29] GS:0 Total Static map:673
+[2025/11/29 10:11:29] Assign Dynamic map(948,70544) for GS:0
+[2025/11/29 10:11:29] GS:0 Total Dynamic map:4
+[20

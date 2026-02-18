@@ -1,0 +1,21 @@
+[Normal]Item: ChiÕu D¹ Ngäc S­ Tö (0,0,10,5,0,10), unbind = 0, bind = 80
+[Normal]Item: §Ých L« (0,0,10,5,0,9), unbind = 0, bind = 40
+[Normal]Item: TuyÖt ¶nh(0,0,10,5,0,8), unbind = 0, bind = 40
+[Normal]Item: XÝch Thè (0,0,10,5,0,7), unbind = 0, bind = 60
+[Normal]Item: ¤ V©n §¹p TuyÕt(0,0,10,5,0,6), unbind = 0, bind = 40
+[Normal]Item: Phi V©n(0,0,10,8,0,10), unbind = 0, bind = 120
+[Normal]Item: ChiÕu D¹ Ngäc S­ Tö (0,0,10,5,0,10), unbind = 0, bind = 80
+[Normal]Item: Thanh C©u PhËt §µ Ch©u Liªn(0,1,914,1,0,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u PhËt §µ T¨ng M¹o(0,1,915,0,4,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Ph¹t §µ Th­îng Giíi(0,1,916,0,3,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u PhËt §µ Hé UyÓn(0,1,917,1,1,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u PhËt §µ Thóc Yªu(0,1,918,0,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u Phi Tinh Th­îng Giíi(0,1,1046,1,2,10), unbind = 0, bind = 20
+[Normal]Item: Thanh C©u La H¸n PhËt Ch©u(0,1,904,0,1,10), unbind = 0, bind = 20
+[Normal]Item: HiÖp Cèt T×nh ý KÕt(0,1,188,1,4,5), unbind = 0, bind = 100
+[Normal]Item: XÝch Long C©u(0,0,10,9,0,10), unbind = 0, bind = 8000
+[Normal]Item: Siªu Quang(0,0,10,13,0,10), unbind = 0, bind = 20000
+[Normal]Item: B«n Tiªu(0,0,10,6,0,10), unbind = 0, bind = 200
+[Normal]Item: Phiªn Vò (0,0,10,7,0,10), unbind = 0, bind = 2000
+[Normal]Item: §¹i Phong §ao(0,0,0,1,4,10), unbind = 0, bind = 0
+[Normal]Item: Phi V©n(0,0,10,8,0,10), unbind = 0, bind = 120

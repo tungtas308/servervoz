@@ -1,0 +1,7 @@
+[Enchasable]Item: (0,2,14,1,0,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,0,1), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,13,1,0,10), unbind = 0, bind = 0

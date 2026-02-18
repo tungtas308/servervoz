@@ -1,0 +1,1 @@
+[Normal]Item: XÝch Long C©u(0,0,10,9,0,10), unbind = 0, bind = 8000
